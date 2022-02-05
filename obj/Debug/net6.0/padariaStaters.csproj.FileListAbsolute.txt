@@ -1,0 +1,15 @@
+C:\temp\TNT\padariaStaters\bin\Debug\net6.0\padariaStaters.exe
+C:\temp\TNT\padariaStaters\bin\Debug\net6.0\padariaStaters.deps.json
+C:\temp\TNT\padariaStaters\bin\Debug\net6.0\padariaStaters.runtimeconfig.json
+C:\temp\TNT\padariaStaters\bin\Debug\net6.0\padariaStaters.dll
+C:\temp\TNT\padariaStaters\bin\Debug\net6.0\ref\padariaStaters.dll
+C:\temp\TNT\padariaStaters\bin\Debug\net6.0\padariaStaters.pdb
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.csproj.AssemblyReference.cache
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.AssemblyInfoInputs.cache
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.AssemblyInfo.cs
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.csproj.CoreCompileInputs.cache
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.dll
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\ref\padariaStaters.dll
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.pdb
+C:\temp\TNT\padariaStaters\obj\Debug\net6.0\padariaStaters.genruntimeconfig.cache
